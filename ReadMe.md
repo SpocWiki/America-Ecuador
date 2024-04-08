@@ -128,8 +128,10 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 
 [Alcohol-l::9.4] 
 [Language-Id::492] 
-[geo-lon::-78.5] 
-[geo-lat::-0.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-78.5] 
+[has_place_latitude::-0.23] 
 
 
 
