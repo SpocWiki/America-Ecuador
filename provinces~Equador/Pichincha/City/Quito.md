@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-0.23,-78.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/City/Quito|Quito]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/City/Quito.public|Quito.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/City/Quito.internal|Quito.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/City/Quito.protect|Quito.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/City/Quito.private|Quito.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/City/Quito.personal|Quito.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/City/Quito.secret|Quito.secret]] 
+
+### [Quito.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.public.md) 
+
+### [Quito.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.internal.md) 
+
+### [Quito.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.protect.md) 
+
+### [Quito.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.private.md) 
+
+### [Quito.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.personal.md) 
+
+### [Quito.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.secret.md)
+

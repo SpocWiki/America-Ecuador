@@ -40,11 +40,16 @@ markerFolder: ./Azuay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Azuay|Azuay]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Azuay.public|Azuay.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Azuay.internal|Azuay.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Azuay.protect|Azuay.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Azuay.private|Azuay.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Azuay.personal|Azuay.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Azuay.secret|Azuay.secret]] 
+
+### [Azuay.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorAzuay.public.md) 
+
+### [Azuay.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorAzuay.internal.md) 
+
+### [Azuay.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorAzuay.protect.md) 
+
+### [Azuay.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorAzuay.private.md) 
+
+### [Azuay.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorAzuay.personal.md) 
+
+### [Azuay.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorAzuay.secret.md)
 

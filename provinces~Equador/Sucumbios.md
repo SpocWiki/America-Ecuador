@@ -40,11 +40,16 @@ markerFolder: ./Sucumbios/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Sucumbios|Sucumbios]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Sucumbios.public|Sucumbios.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Sucumbios.internal|Sucumbios.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Sucumbios.protect|Sucumbios.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Sucumbios.private|Sucumbios.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Sucumbios.personal|Sucumbios.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Sucumbios.secret|Sucumbios.secret]] 
+
+### [Sucumbios.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorSucumbios.public.md) 
+
+### [Sucumbios.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorSucumbios.internal.md) 
+
+### [Sucumbios.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorSucumbios.protect.md) 
+
+### [Sucumbios.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorSucumbios.private.md) 
+
+### [Sucumbios.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorSucumbios.personal.md) 
+
+### [Sucumbios.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorSucumbios.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Santa_Elena/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Santa_Elena|Santa_Elena]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.public|Santa_Elena.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.internal|Santa_Elena.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.protect|Santa_Elena.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.private|Santa_Elena.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.personal|Santa_Elena.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.secret|Santa_Elena.secret]] 
+
+### [Santa_Elena.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanta_Elena.public.md) 
+
+### [Santa_Elena.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanta_Elena.internal.md) 
+
+### [Santa_Elena.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanta_Elena.protect.md) 
+
+### [Santa_Elena.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanta_Elena.private.md) 
+
+### [Santa_Elena.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanta_Elena.personal.md) 
+
+### [Santa_Elena.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanta_Elena.secret.md)
 

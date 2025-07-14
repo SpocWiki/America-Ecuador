@@ -40,11 +40,16 @@ markerFolder: ./Morona_Santiago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago|Morona_Santiago]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.public|Morona_Santiago.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.internal|Morona_Santiago.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.protect|Morona_Santiago.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.private|Morona_Santiago.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.personal|Morona_Santiago.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Morona_Santiago.secret|Morona_Santiago.secret]] 
+
+### [Morona_Santiago.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorMorona_Santiago.public.md) 
+
+### [Morona_Santiago.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorMorona_Santiago.internal.md) 
+
+### [Morona_Santiago.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorMorona_Santiago.protect.md) 
+
+### [Morona_Santiago.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorMorona_Santiago.private.md) 
+
+### [Morona_Santiago.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorMorona_Santiago.personal.md) 
+
+### [Morona_Santiago.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorMorona_Santiago.secret.md)
 

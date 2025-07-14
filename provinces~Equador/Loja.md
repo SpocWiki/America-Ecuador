@@ -40,11 +40,16 @@ markerFolder: ./Loja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Loja|Loja]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Loja.public|Loja.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Loja.internal|Loja.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Loja.protect|Loja.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Loja.private|Loja.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Loja.personal|Loja.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Loja.secret|Loja.secret]] 
+
+### [Loja.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.public.md) 
+
+### [Loja.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.internal.md) 
+
+### [Loja.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.protect.md) 
+
+### [Loja.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.private.md) 
+
+### [Loja.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.personal.md) 
+
+### [Loja.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.secret.md)
 

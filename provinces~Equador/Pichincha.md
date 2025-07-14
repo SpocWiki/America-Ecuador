@@ -40,11 +40,16 @@ markerFolder: ./Pichincha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Pichincha|Pichincha]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Pichincha.public|Pichincha.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Pichincha.internal|Pichincha.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Pichincha.protect|Pichincha.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Pichincha.private|Pichincha.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Pichincha.personal|Pichincha.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Pichincha.secret|Pichincha.secret]] 
+
+### [Pichincha.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorPichincha.public.md) 
+
+### [Pichincha.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorPichincha.internal.md) 
+
+### [Pichincha.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorPichincha.protect.md) 
+
+### [Pichincha.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorPichincha.private.md) 
+
+### [Pichincha.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorPichincha.personal.md) 
+
+### [Pichincha.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorPichincha.secret.md)
 

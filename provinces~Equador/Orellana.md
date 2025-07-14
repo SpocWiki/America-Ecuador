@@ -40,11 +40,16 @@ markerFolder: ./Orellana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Orellana|Orellana]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Orellana.public|Orellana.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Orellana.internal|Orellana.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Orellana.protect|Orellana.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Orellana.private|Orellana.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Orellana.personal|Orellana.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Orellana.secret|Orellana.secret]] 
+
+### [Orellana.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorOrellana.public.md) 
+
+### [Orellana.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorOrellana.internal.md) 
+
+### [Orellana.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorOrellana.protect.md) 
+
+### [Orellana.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorOrellana.private.md) 
+
+### [Orellana.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorOrellana.personal.md) 
+
+### [Orellana.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorOrellana.secret.md)
 

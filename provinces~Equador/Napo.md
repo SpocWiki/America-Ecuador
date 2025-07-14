@@ -40,11 +40,16 @@ markerFolder: ./Napo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Napo|Napo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Napo.public|Napo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Napo.internal|Napo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Napo.protect|Napo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Napo.private|Napo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Napo.personal|Napo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Napo.secret|Napo.secret]] 
+
+### [Napo.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorNapo.public.md) 
+
+### [Napo.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorNapo.internal.md) 
+
+### [Napo.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorNapo.protect.md) 
+
+### [Napo.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorNapo.private.md) 
+
+### [Napo.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorNapo.personal.md) 
+
+### [Napo.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorNapo.secret.md)
 

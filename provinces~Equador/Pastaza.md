@@ -40,11 +40,16 @@ markerFolder: ./Pastaza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Pastaza|Pastaza]] 
-- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Pastaza.public|Pastaza.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Pastaza.internal|Pastaza.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Pastaza.protect|Pastaza.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Pastaza.private|Pastaza.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Pastaza.personal|Pastaza.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Pastaza.secret|Pastaza.secret]] 
+
+### [Pastaza.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorPastaza.public.md) 
+
+### [Pastaza.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorPastaza.internal.md) 
+
+### [Pastaza.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorPastaza.protect.md) 
+
+### [Pastaza.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorPastaza.private.md) 
+
+### [Pastaza.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorPastaza.personal.md) 
+
+### [Pastaza.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorPastaza.secret.md)
 
