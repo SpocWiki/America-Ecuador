@@ -41,15 +41,17 @@ markerFolder: ./Galápagos/
 
 ## Confidential Links & Embeds: 
 
-### [Galápagos.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorGalápagos.public.md) 
+### [Galápagos](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.md) 
 
-### [Galápagos.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorGalápagos.internal.md) 
+### [Galápagos.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.public.md) 
 
-### [Galápagos.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorGalápagos.protect.md) 
+### [Galápagos.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.internal.md) 
 
-### [Galápagos.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorGalápagos.private.md) 
+### [Galápagos.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.protect.md) 
 
-### [Galápagos.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorGalápagos.personal.md) 
+### [Galápagos.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.private.md) 
 
-### [Galápagos.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorGalápagos.secret.md)
+### [Galápagos.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.personal.md) 
+
+### [Galápagos.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.secret.md)
 

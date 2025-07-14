@@ -41,15 +41,17 @@ markerFolder: ./Bolivar/
 
 ## Confidential Links & Embeds: 
 
-### [Bolivar.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorBolivar.public.md) 
+### [Bolivar](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Bolivar.md) 
 
-### [Bolivar.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorBolivar.internal.md) 
+### [Bolivar.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Bolivar.public.md) 
 
-### [Bolivar.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorBolivar.protect.md) 
+### [Bolivar.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Bolivar.internal.md) 
 
-### [Bolivar.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorBolivar.private.md) 
+### [Bolivar.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Bolivar.protect.md) 
 
-### [Bolivar.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorBolivar.personal.md) 
+### [Bolivar.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Bolivar.private.md) 
 
-### [Bolivar.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorBolivar.secret.md)
+### [Bolivar.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Bolivar.personal.md) 
+
+### [Bolivar.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Bolivar.secret.md)
 

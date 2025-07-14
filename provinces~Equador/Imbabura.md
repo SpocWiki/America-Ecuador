@@ -41,15 +41,17 @@ markerFolder: ./Imbabura/
 
 ## Confidential Links & Embeds: 
 
-### [Imbabura.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorImbabura.public.md) 
+### [Imbabura](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Imbabura.md) 
 
-### [Imbabura.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorImbabura.internal.md) 
+### [Imbabura.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Imbabura.public.md) 
 
-### [Imbabura.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorImbabura.protect.md) 
+### [Imbabura.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Imbabura.internal.md) 
 
-### [Imbabura.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorImbabura.private.md) 
+### [Imbabura.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Imbabura.protect.md) 
 
-### [Imbabura.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorImbabura.personal.md) 
+### [Imbabura.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Imbabura.private.md) 
 
-### [Imbabura.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorImbabura.secret.md)
+### [Imbabura.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Imbabura.personal.md) 
+
+### [Imbabura.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Imbabura.secret.md)
 

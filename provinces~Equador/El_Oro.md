@@ -41,15 +41,17 @@ markerFolder: ./El_Oro/
 
 ## Confidential Links & Embeds: 
 
-### [El_Oro.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorEl_Oro.public.md) 
+### [El_Oro](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/El_Oro.md) 
 
-### [El_Oro.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorEl_Oro.internal.md) 
+### [El_Oro.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/El_Oro.public.md) 
 
-### [El_Oro.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorEl_Oro.protect.md) 
+### [El_Oro.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/El_Oro.internal.md) 
 
-### [El_Oro.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorEl_Oro.private.md) 
+### [El_Oro.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/El_Oro.protect.md) 
 
-### [El_Oro.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorEl_Oro.personal.md) 
+### [El_Oro.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/El_Oro.private.md) 
 
-### [El_Oro.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorEl_Oro.secret.md)
+### [El_Oro.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/El_Oro.personal.md) 
+
+### [El_Oro.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/El_Oro.secret.md)
 

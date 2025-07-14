@@ -41,15 +41,17 @@ markerFolder: ./Cotopaxi/
 
 ## Confidential Links & Embeds: 
 
-### [Cotopaxi.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorCotopaxi.public.md) 
+### [Cotopaxi](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Cotopaxi.md) 
 
-### [Cotopaxi.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorCotopaxi.internal.md) 
+### [Cotopaxi.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Cotopaxi.public.md) 
 
-### [Cotopaxi.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorCotopaxi.protect.md) 
+### [Cotopaxi.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Cotopaxi.internal.md) 
 
-### [Cotopaxi.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorCotopaxi.private.md) 
+### [Cotopaxi.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Cotopaxi.protect.md) 
 
-### [Cotopaxi.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorCotopaxi.personal.md) 
+### [Cotopaxi.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Cotopaxi.private.md) 
 
-### [Cotopaxi.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorCotopaxi.secret.md)
+### [Cotopaxi.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Cotopaxi.personal.md) 
+
+### [Cotopaxi.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Cotopaxi.secret.md)
 

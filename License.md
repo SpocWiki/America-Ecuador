@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\EcuadorLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Ecuador/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\EcuadorLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Ecuador/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\EcuadorLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Ecuador/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\EcuadorLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Ecuador/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\EcuadorLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Ecuador/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\EcuadorLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Ecuador/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Ecuador/License.secret.md)
 

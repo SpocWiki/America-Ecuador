@@ -134,15 +134,17 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\EcuadorReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Ecuador/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\EcuadorReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Ecuador/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\EcuadorReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Ecuador/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\EcuadorReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Ecuador/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\EcuadorReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Ecuador/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\EcuadorReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Ecuador/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Ecuador/ReadMe.secret.md)
 

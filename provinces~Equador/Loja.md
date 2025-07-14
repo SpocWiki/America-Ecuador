@@ -41,15 +41,17 @@ markerFolder: ./Loja/
 
 ## Confidential Links & Embeds: 
 
-### [Loja.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.public.md) 
+### [Loja](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.md) 
 
-### [Loja.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.internal.md) 
+### [Loja.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.public.md) 
 
-### [Loja.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.protect.md) 
+### [Loja.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.internal.md) 
 
-### [Loja.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.private.md) 
+### [Loja.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.protect.md) 
 
-### [Loja.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.personal.md) 
+### [Loja.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.private.md) 
 
-### [Loja.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorLoja.secret.md)
+### [Loja.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.personal.md) 
+
+### [Loja.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.secret.md)
 

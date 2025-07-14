@@ -41,15 +41,17 @@ markerFolder: ./Santo_Domingo_de_los_Tsáchilas/
 
 ## Confidential Links & Embeds: 
 
-### [Santo_Domingo_de_los_Tsáchilas.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanto_Domingo_de_los_Tsáchilas.public.md) 
+### [Santo_Domingo_de_los_Tsáchilas](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.md) 
 
-### [Santo_Domingo_de_los_Tsáchilas.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanto_Domingo_de_los_Tsáchilas.internal.md) 
+### [Santo_Domingo_de_los_Tsáchilas.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.public.md) 
 
-### [Santo_Domingo_de_los_Tsáchilas.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanto_Domingo_de_los_Tsáchilas.protect.md) 
+### [Santo_Domingo_de_los_Tsáchilas.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.internal.md) 
 
-### [Santo_Domingo_de_los_Tsáchilas.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanto_Domingo_de_los_Tsáchilas.private.md) 
+### [Santo_Domingo_de_los_Tsáchilas.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.protect.md) 
 
-### [Santo_Domingo_de_los_Tsáchilas.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanto_Domingo_de_los_Tsáchilas.personal.md) 
+### [Santo_Domingo_de_los_Tsáchilas.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.private.md) 
 
-### [Santo_Domingo_de_los_Tsáchilas.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorSanto_Domingo_de_los_Tsáchilas.secret.md)
+### [Santo_Domingo_de_los_Tsáchilas.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.personal.md) 
+
+### [Santo_Domingo_de_los_Tsáchilas.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Cañar/
 
 ## Confidential Links & Embeds: 
 
-### [Cañar.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorCañar.public.md) 
+### [Cañar](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Cañar.md) 
 
-### [Cañar.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorCañar.internal.md) 
+### [Cañar.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Cañar.public.md) 
 
-### [Cañar.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorCañar.protect.md) 
+### [Cañar.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Cañar.internal.md) 
 
-### [Cañar.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorCañar.private.md) 
+### [Cañar.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Cañar.protect.md) 
 
-### [Cañar.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorCañar.personal.md) 
+### [Cañar.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Cañar.private.md) 
 
-### [Cañar.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorCañar.secret.md)
+### [Cañar.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Cañar.personal.md) 
+
+### [Cañar.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Cañar.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Chimborazo/
 
 ## Confidential Links & Embeds: 
 
-### [Chimborazo.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorChimborazo.public.md) 
+### [Chimborazo](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.md) 
 
-### [Chimborazo.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorChimborazo.internal.md) 
+### [Chimborazo.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.public.md) 
 
-### [Chimborazo.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorChimborazo.protect.md) 
+### [Chimborazo.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.internal.md) 
 
-### [Chimborazo.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorChimborazo.private.md) 
+### [Chimborazo.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.protect.md) 
 
-### [Chimborazo.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorChimborazo.personal.md) 
+### [Chimborazo.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.private.md) 
 
-### [Chimborazo.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorChimborazo.secret.md)
+### [Chimborazo.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.personal.md) 
+
+### [Chimborazo.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.secret.md)
 

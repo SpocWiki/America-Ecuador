@@ -41,15 +41,17 @@ markerFolder: ./Guayas/
 
 ## Confidential Links & Embeds: 
 
-### [Guayas.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorGuayas.public.md) 
+### [Guayas](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Guayas.md) 
 
-### [Guayas.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorGuayas.internal.md) 
+### [Guayas.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Guayas.public.md) 
 
-### [Guayas.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorGuayas.protect.md) 
+### [Guayas.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Guayas.internal.md) 
 
-### [Guayas.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorGuayas.private.md) 
+### [Guayas.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Guayas.protect.md) 
 
-### [Guayas.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorGuayas.personal.md) 
+### [Guayas.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Guayas.private.md) 
 
-### [Guayas.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorGuayas.secret.md)
+### [Guayas.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Guayas.personal.md) 
+
+### [Guayas.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Guayas.secret.md)
 

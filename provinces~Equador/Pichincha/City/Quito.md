@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quito.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.public.md) 
+### [Quito](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.md) 
 
-### [Quito.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.internal.md) 
+### [Quito.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.public.md) 
 
-### [Quito.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.protect.md) 
+### [Quito.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.internal.md) 
 
-### [Quito.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.private.md) 
+### [Quito.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.protect.md) 
 
-### [Quito.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.personal.md) 
+### [Quito.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.private.md) 
 
-### [Quito.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~Equador\Pichincha\CityQuito.secret.md)
+### [Quito.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.personal.md) 
+
+### [Quito.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.secret.md)
 

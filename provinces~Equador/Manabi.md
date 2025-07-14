@@ -41,15 +41,17 @@ markerFolder: ./Manabi/
 
 ## Confidential Links & Embeds: 
 
-### [Manabi.public](/_public/\Earth\Continent\America~South\Ecuador\provinces~EquadorManabi.public.md) 
+### [Manabi](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Manabi.md) 
 
-### [Manabi.internal](/_internal/\Earth\Continent\America~South\Ecuador\provinces~EquadorManabi.internal.md) 
+### [Manabi.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Manabi.public.md) 
 
-### [Manabi.protect](/_protect/\Earth\Continent\America~South\Ecuador\provinces~EquadorManabi.protect.md) 
+### [Manabi.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Manabi.internal.md) 
 
-### [Manabi.private](/_private/\Earth\Continent\America~South\Ecuador\provinces~EquadorManabi.private.md) 
+### [Manabi.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Manabi.protect.md) 
 
-### [Manabi.personal](/_personal/\Earth\Continent\America~South\Ecuador\provinces~EquadorManabi.personal.md) 
+### [Manabi.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Manabi.private.md) 
 
-### [Manabi.secret](/_secret/\Earth\Continent\America~South\Ecuador\provinces~EquadorManabi.secret.md)
+### [Manabi.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Manabi.personal.md) 
+
+### [Manabi.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Manabi.secret.md)
 
