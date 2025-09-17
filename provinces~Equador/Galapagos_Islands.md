@@ -30,7 +30,7 @@ has_id_wikidata: Q38095
 
 # [[Galapagos_Islands]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Galapagos_Islands,38095|WD~Galapagos_Islands,38095]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Galapagos_Islands,38095|WD~Galapagos_Islands,38095]] 
 
 ## #has_/map 
 

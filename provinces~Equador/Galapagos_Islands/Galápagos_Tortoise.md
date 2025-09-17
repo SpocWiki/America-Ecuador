@@ -33,7 +33,7 @@ Library_of_Congress_Classification: QL666.C584
 
 # [[Galápagos_Tortoise]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Galápagos_tortoise,20014035|WD~Galápagos_tortoise,20014035]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Galápagos_tortoise,20014035|WD~Galápagos_tortoise,20014035]] 
 
 ## #has_/text_of_/abstract 
 

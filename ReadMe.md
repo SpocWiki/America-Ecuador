@@ -119,11 +119,11 @@ Continent :: [[South-America]]
 [VehicleCode::EC] 
 Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]  
 
-![[Ecuador/Coat_of_arms_of_Ecuador.svg|350]] 
+![[Coat_of_arms_of_Ecuador.svg|350]] 
 
 ![[Anthem-Ecuador.mp3]] 
 
-![[Ecuador/Flag_of_Ecuador.svg|350]] 
+![[Flag_of_Ecuador.svg|350]] 
 
 [Alcohol-l::9.4] 
 [Language-Id::492] 
