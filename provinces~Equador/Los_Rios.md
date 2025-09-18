@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Los_Rios
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Los_Rios/
 markerFolder: ./Los_Rios/

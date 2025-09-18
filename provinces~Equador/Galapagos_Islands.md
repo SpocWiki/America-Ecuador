@@ -37,7 +37,7 @@ has_id_wikidata: Q38095
 ```leaflet
 id: Galápagos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Galápagos/
 markerFolder: ./Galápagos/

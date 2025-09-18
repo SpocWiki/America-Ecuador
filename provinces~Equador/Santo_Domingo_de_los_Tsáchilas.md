@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santo_Domingo_de_los_Tsáchilas
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santo_Domingo_de_los_Tsáchilas/
 markerFolder: ./Santo_Domingo_de_los_Tsáchilas/

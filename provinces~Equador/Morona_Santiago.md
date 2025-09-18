@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Morona_Santiago
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Morona_Santiago/
 markerFolder: ./Morona_Santiago/

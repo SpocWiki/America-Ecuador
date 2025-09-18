@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Zamora_Chinchipe
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Zamora_Chinchipe/
 markerFolder: ./Zamora_Chinchipe/
