@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../Ecuador]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
