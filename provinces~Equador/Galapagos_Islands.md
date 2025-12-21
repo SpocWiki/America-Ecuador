@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Galápagos
+  - Galapagos_Islands
+  - Galapagos Islands
+has_id_wikidata: Q38095
 location:
   - -0.6
   - -90.4
@@ -12,20 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Galápagos
-  - Galapagos_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-has_id_wikidata: Q38095
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Galapagos_Islands]] 

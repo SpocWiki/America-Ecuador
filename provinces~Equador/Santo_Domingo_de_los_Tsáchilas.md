@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santo_Domingo_de_los_Tsáchilas
+  - Santo Domingo de los Tsáchilas
 location:
   - -0.3
   - -79.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santo_Domingo_de_los_Tsáchilas
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santo_Domingo_de_los_Tsáchilas

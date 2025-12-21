@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Zamora_Chinchipe
+  - Zamora Chinchipe
 location:
   - -4.2
   - -78.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Zamora_Chinchipe
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Zamora_Chinchipe

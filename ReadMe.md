@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Ecuador
+  - Équateur
+  - إكوادور
+  - 厄瓜多尔
+  - Эквадор
+  - the Republic of Ecuador
+  - la República del Ecuador
+  - Ecuador (el)
+  - ReadMe
 location:
   - -0.23
   - -78.5
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Ecuador
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Ecuador
-  - Équateur
-  - إكوادور
-  - 厄瓜多尔
-  - Эквадор
-  - the Republic of Ecuador
-  - la República del Ecuador
-  - Ecuador (el)
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-EC
 ---

@@ -2,6 +2,7 @@
 aliases:
   - Kitu
   - San Francisco de Quito
+  - Quito
 has_id_wikidata: Q2900
 location:
   - -0.23
