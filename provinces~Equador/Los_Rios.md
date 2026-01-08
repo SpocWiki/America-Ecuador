@@ -41,17 +41,17 @@ markerFolder: ./Los_Rios/
 
 ## Confidential Links & Embeds: 
 
-### [Los_Rios](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Los_Rios.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Los_Rios|Los_Rios]] 
 
-### [Los_Rios.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Los_Rios.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Los_Rios.public|Los_Rios.public]] 
 
-### [Los_Rios.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Los_Rios.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Los_Rios.internal|Los_Rios.internal]] 
 
-### [Los_Rios.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Los_Rios.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Los_Rios.protect|Los_Rios.protect]] 
 
-### [Los_Rios.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Los_Rios.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Los_Rios.private|Los_Rios.private]] 
 
-### [Los_Rios.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Los_Rios.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Los_Rios.personal|Los_Rios.personal]] 
 
-### [Los_Rios.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Los_Rios.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Los_Rios.secret|Los_Rios.secret]] 
 

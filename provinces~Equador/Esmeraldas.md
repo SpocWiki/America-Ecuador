@@ -40,17 +40,17 @@ markerFolder: ./Esmeraldas/
 
 ## Confidential Links & Embeds: 
 
-### [Esmeraldas](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Esmeraldas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Esmeraldas|Esmeraldas]] 
 
-### [Esmeraldas.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Esmeraldas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Esmeraldas.public|Esmeraldas.public]] 
 
-### [Esmeraldas.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Esmeraldas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Esmeraldas.internal|Esmeraldas.internal]] 
 
-### [Esmeraldas.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Esmeraldas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Esmeraldas.protect|Esmeraldas.protect]] 
 
-### [Esmeraldas.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Esmeraldas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Esmeraldas.private|Esmeraldas.private]] 
 
-### [Esmeraldas.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Esmeraldas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Esmeraldas.personal|Esmeraldas.personal]] 
 
-### [Esmeraldas.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Esmeraldas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Esmeraldas.secret|Esmeraldas.secret]] 
 

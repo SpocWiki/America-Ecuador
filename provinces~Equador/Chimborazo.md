@@ -40,17 +40,17 @@ markerFolder: ./Chimborazo/
 
 ## Confidential Links & Embeds: 
 
-### [Chimborazo](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Chimborazo|Chimborazo]] 
 
-### [Chimborazo.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Chimborazo.public|Chimborazo.public]] 
 
-### [Chimborazo.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Chimborazo.internal|Chimborazo.internal]] 
 
-### [Chimborazo.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Chimborazo.protect|Chimborazo.protect]] 
 
-### [Chimborazo.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Chimborazo.private|Chimborazo.private]] 
 
-### [Chimborazo.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Chimborazo.personal|Chimborazo.personal]] 
 
-### [Chimborazo.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Chimborazo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Chimborazo.secret|Chimborazo.secret]] 
 

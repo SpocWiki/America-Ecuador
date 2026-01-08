@@ -29,11 +29,14 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gal%C3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Galapagos%20Geochelone%20nigra%20porteri.jpg
 UMLS_CUI: C0327122
 Library_of_Congress_Classification: QL666.C584
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Galápagos_tortoise,20014035|WD~Galápagos_tortoise,20014035]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Galápagos_tortoise,20014035|WD~Galápagos_tortoise,20014035]]"
 ---
 
 # [[Galápagos_Tortoise]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Galápagos_tortoise,20014035|WD~Galápagos_tortoise,20014035]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -56,4 +59,21 @@ Library_of_Congress_Classification: QL666.C584
 > The Galápagos tortoises are one of two insular radiations of giant tortoises that still survive to the modern day; the other is Aldabrachelys gigantea of Aldabra and the Seychelles in the Indian Ocean, 700 km (430 mi) east of Tanzania. While giant tortoise radiations were common in prehistoric times,  humans have wiped out the majority of them worldwide; the only other radiation of tortoises to survive to historic times, Cylindraspis of the Mascarenes, was driven to extinction by the 19th century, and other giant tortoise radiations such as a Centrochelys radiation on the Canary Islands and another Chelonoidis radiation in the Caribbean were driven to extinction prior to that.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gal%C3%A1pagos%20tortoise) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands/Galápagos_Tortoise|Galápagos_Tortoise]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands/Galápagos_Tortoise.public|Galápagos_Tortoise.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands/Galápagos_Tortoise.internal|Galápagos_Tortoise.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands/Galápagos_Tortoise.protect|Galápagos_Tortoise.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands/Galápagos_Tortoise.private|Galápagos_Tortoise.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands/Galápagos_Tortoise.personal|Galápagos_Tortoise.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands/Galápagos_Tortoise.secret|Galápagos_Tortoise.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Carchi/
 
 ## Confidential Links & Embeds: 
 
-### [Carchi](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Carchi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Carchi|Carchi]] 
 
-### [Carchi.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Carchi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Carchi.public|Carchi.public]] 
 
-### [Carchi.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Carchi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Carchi.internal|Carchi.internal]] 
 
-### [Carchi.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Carchi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Carchi.protect|Carchi.protect]] 
 
-### [Carchi.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Carchi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Carchi.private|Carchi.private]] 
 
-### [Carchi.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Carchi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Carchi.personal|Carchi.personal]] 
 
-### [Carchi.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Carchi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Carchi.secret|Carchi.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Santo_Domingo_de_los_Tsáchilas/
 
 ## Confidential Links & Embeds: 
 
-### [Santo_Domingo_de_los_Tsáchilas](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas|Santo_Domingo_de_los_Tsáchilas]] 
 
-### [Santo_Domingo_de_los_Tsáchilas.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.public|Santo_Domingo_de_los_Tsáchilas.public]] 
 
-### [Santo_Domingo_de_los_Tsáchilas.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.internal|Santo_Domingo_de_los_Tsáchilas.internal]] 
 
-### [Santo_Domingo_de_los_Tsáchilas.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.protect|Santo_Domingo_de_los_Tsáchilas.protect]] 
 
-### [Santo_Domingo_de_los_Tsáchilas.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.private|Santo_Domingo_de_los_Tsáchilas.private]] 
 
-### [Santo_Domingo_de_los_Tsáchilas.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.personal|Santo_Domingo_de_los_Tsáchilas.personal]] 
 
-### [Santo_Domingo_de_los_Tsáchilas.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Santo_Domingo_de_los_Tsáchilas.secret|Santo_Domingo_de_los_Tsáchilas.secret]] 
 

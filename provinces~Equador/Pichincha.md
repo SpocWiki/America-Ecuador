@@ -40,17 +40,17 @@ markerFolder: ./Pichincha/
 
 ## Confidential Links & Embeds: 
 
-### [Pichincha](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha|Pichincha]] 
 
-### [Pichincha.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha.public|Pichincha.public]] 
 
-### [Pichincha.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha.internal|Pichincha.internal]] 
 
-### [Pichincha.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha.protect|Pichincha.protect]] 
 
-### [Pichincha.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha.private|Pichincha.private]] 
 
-### [Pichincha.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha.personal|Pichincha.personal]] 
 
-### [Pichincha.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha.secret|Pichincha.secret]] 
 

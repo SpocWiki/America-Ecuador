@@ -40,17 +40,17 @@ markerFolder: ./Loja/
 
 ## Confidential Links & Embeds: 
 
-### [Loja](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Loja|Loja]] 
 
-### [Loja.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Loja.public|Loja.public]] 
 
-### [Loja.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Loja.internal|Loja.internal]] 
 
-### [Loja.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Loja.protect|Loja.protect]] 
 
-### [Loja.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Loja.private|Loja.private]] 
 
-### [Loja.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Loja.personal|Loja.personal]] 
 
-### [Loja.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Loja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Loja.secret|Loja.secret]] 
 

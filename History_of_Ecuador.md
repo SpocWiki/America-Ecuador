@@ -6,11 +6,14 @@ instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 facet_of: "[[_Standards/WikiData/WD~Ecuador,736]]"
 Dewey_Decimal_Classification: "986"
 Commons_category: History of Ecuador
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Ecuador,926416]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Ecuador,926416]]"
 ---
 
 # [[History_of_Ecuador]] 
 
-#is_/same_as :: [[WD~History_of_Ecuador,926416]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -25,4 +28,21 @@ Commons_category: History of Ecuador
 > Ecuador would endure a period of civil war until the mid nineteenth century after which it would be dominated by caudillos, alternatively conservative and liberal. In the twentieth and twenty first centuries Ecuador would continue to struggle in achieving both economic and political stability.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Ecuador) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/History_of_Ecuador|History_of_Ecuador]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/History_of_Ecuador.public|History_of_Ecuador.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/History_of_Ecuador.internal|History_of_Ecuador.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/History_of_Ecuador.protect|History_of_Ecuador.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/History_of_Ecuador.private|History_of_Ecuador.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/History_of_Ecuador.personal|History_of_Ecuador.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/History_of_Ecuador.secret|History_of_Ecuador.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Zamora_Chinchipe/
 
 ## Confidential Links & Embeds: 
 
-### [Zamora_Chinchipe](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Zamora_Chinchipe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Zamora_Chinchipe|Zamora_Chinchipe]] 
 
-### [Zamora_Chinchipe.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Zamora_Chinchipe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Zamora_Chinchipe.public|Zamora_Chinchipe.public]] 
 
-### [Zamora_Chinchipe.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Zamora_Chinchipe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Zamora_Chinchipe.internal|Zamora_Chinchipe.internal]] 
 
-### [Zamora_Chinchipe.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Zamora_Chinchipe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Zamora_Chinchipe.protect|Zamora_Chinchipe.protect]] 
 
-### [Zamora_Chinchipe.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Zamora_Chinchipe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Zamora_Chinchipe.private|Zamora_Chinchipe.private]] 
 
-### [Zamora_Chinchipe.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Zamora_Chinchipe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Zamora_Chinchipe.personal|Zamora_Chinchipe.personal]] 
 
-### [Zamora_Chinchipe.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Zamora_Chinchipe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Zamora_Chinchipe.secret|Zamora_Chinchipe.secret]] 
 

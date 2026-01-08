@@ -40,17 +40,17 @@ markerFolder: ./Tungurahua/
 
 ## Confidential Links & Embeds: 
 
-### [Tungurahua](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Tungurahua.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Tungurahua|Tungurahua]] 
 
-### [Tungurahua.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Tungurahua.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Tungurahua.public|Tungurahua.public]] 
 
-### [Tungurahua.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Tungurahua.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Tungurahua.internal|Tungurahua.internal]] 
 
-### [Tungurahua.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Tungurahua.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Tungurahua.protect|Tungurahua.protect]] 
 
-### [Tungurahua.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Tungurahua.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Tungurahua.private|Tungurahua.private]] 
 
-### [Tungurahua.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Tungurahua.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Tungurahua.personal|Tungurahua.personal]] 
 
-### [Tungurahua.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Tungurahua.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Tungurahua.secret|Tungurahua.secret]] 
 

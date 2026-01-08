@@ -17,20 +17,28 @@ tags:
 SpocWebEntityId: 33585
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -78.5
+dv_has_place_latitude: -0.23
+dv_name: Quito
+dv_Country: "[[../../../../Ecuador]]"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Quito,2900|WD~Quito,2900]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Quito,2900|WD~Quito,2900]]"
 ---
 
 # [[Quito]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-78.5] 
-[has_place_latitude::-0.23] 
-[name::Quito] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Ecuador]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Quito,2900|WD~Quito,2900]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -85,20 +93,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Quito) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Quito](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha/City/Quito|Quito]] 
 
-### [Quito.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha/City/Quito.public|Quito.public]] 
 
-### [Quito.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha/City/Quito.internal|Quito.internal]] 
 
-### [Quito.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha/City/Quito.protect|Quito.protect]] 
 
-### [Quito.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha/City/Quito.private|Quito.private]] 
 
-### [Quito.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha/City/Quito.personal|Quito.personal]] 
 
-### [Quito.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Pichincha/City/Quito.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Pichincha/City/Quito.secret|Quito.secret]] 
 

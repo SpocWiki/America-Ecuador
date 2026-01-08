@@ -22,16 +22,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Galapagos_Islands,38095|WD~Galapagos_Islands,38095]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Galapagos_Islands,38095|WD~Galapagos_Islands,38095]]"
 ---
 
 # [[Galapagos_Islands]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Galapagos_Islands,38095|WD~Galapagos_Islands,38095]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -76,20 +79,19 @@ markerFolder: ./Galápagos/
 > [Wikipedia](https://en.wikipedia.org/wiki/Gal%C3%A1pagos%20Islands) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Galápagos](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands|Galapagos_Islands]] 
 
-### [Galápagos.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands.public|Galapagos_Islands.public]] 
 
-### [Galápagos.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands.internal|Galapagos_Islands.internal]] 
 
-### [Galápagos.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands.protect|Galapagos_Islands.protect]] 
 
-### [Galápagos.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands.private|Galapagos_Islands.private]] 
 
-### [Galápagos.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands.personal|Galapagos_Islands.personal]] 
 
-### [Galápagos.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Galápagos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Galapagos_Islands.secret|Galapagos_Islands.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Orellana/
 
 ## Confidential Links & Embeds: 
 
-### [Orellana](/_Standards/Earth/Continent/America~South/Ecuador/provinces~Equador/Orellana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Orellana|Orellana]] 
 
-### [Orellana.public](/_public/Earth/Continent/America~South/Ecuador/provinces~Equador/Orellana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Orellana.public|Orellana.public]] 
 
-### [Orellana.internal](/_internal/Earth/Continent/America~South/Ecuador/provinces~Equador/Orellana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Orellana.internal|Orellana.internal]] 
 
-### [Orellana.protect](/_protect/Earth/Continent/America~South/Ecuador/provinces~Equador/Orellana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Orellana.protect|Orellana.protect]] 
 
-### [Orellana.private](/_private/Earth/Continent/America~South/Ecuador/provinces~Equador/Orellana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Orellana.private|Orellana.private]] 
 
-### [Orellana.personal](/_personal/Earth/Continent/America~South/Ecuador/provinces~Equador/Orellana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Orellana.personal|Orellana.personal]] 
 
-### [Orellana.secret](/_secret/Earth/Continent/America~South/Ecuador/provinces~Equador/Orellana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Ecuador/provinces~Equador/Orellana.secret|Orellana.secret]] 
 
