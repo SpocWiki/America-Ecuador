@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -78.5
 dv_has_place_latitude: -0.23
-dv_name: Quito
+dv_has_name_: Quito
 dv_Country: "[[../../../../Ecuador]]"
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Quito,2900|WD~Quito,2900]]"

@@ -41,15 +41,13 @@ dv_ISO4217-currency_country_name: ECUADOR
 dv_Telephone: 593
 dv_Global: true
 dv_Global_Name: World
-dv_name: Ecuador
-dv_name-en:
-  - Ecuador
-  - Ecuador
-dv_name-es: Ecuador
-dv_name-fr: Équateur
-dv_name-cn: 厄瓜多尔
-dv_name-ar: إكوادور
-dv_name-ru: Эквадор
+dv_has_name_: Ecuador
+dv_has_name_en: Ecuador
+dv_has_name_es: Ecuador
+dv_has_name_fr: Équateur
+dv_has_name_cn: 厄瓜多尔
+dv_has_name_ar: إكوادور
+dv_has_name_ru: Эквадор
 dv_CLDR_display_name: Ecuador
 dv_UNTERM_English: Ecuador
 dv_UNTERM_English_Formal: the Republic of Ecuador
@@ -87,7 +85,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 218
 dv_ISO2: EC
 dv_ISO3: ECU
-dv_name-de: Ecuador
+dv_has_name_de: Ecuador
 dv_Area-Total: 272045
 dv_Area-Land: 276840
 dv_Continent: "[[South-America]]"
@@ -114,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Ecuador ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Ecuador ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -178,8 +176,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Ecuador] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Ecuador] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
